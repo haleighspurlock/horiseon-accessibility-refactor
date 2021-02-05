@@ -78,9 +78,9 @@ This homework is graded based on the following criteria:
 
 * Satisfies all of the above acceptance criteria plus the following code improvements:
 
-  * Application's links all function correctly.
+  * Application's links all function correctly. √
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. √
 
   * Application's CSS file is properly commented.
 
@@ -100,9 +100,9 @@ This homework is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+* Repository has a unique name. √
 
-* Repository follows best practices for file structure and naming conventions.
+* Repository follows best practices for file structure and naming conventions. √
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
