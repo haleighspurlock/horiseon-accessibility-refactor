@@ -88,11 +88,11 @@ This homework is graded based on the following criteria:
 
 - Application deployed at live URL using GitHub Pages. √
 
-- Application loads with no errors.
+- Application loads with no errors. √
 
-- Application GitHub URL submitted.
+- Application GitHub URL submitted. √
 
-- GitHub repository that contains application code.
+- GitHub repository that contains application code. √
 
 ### Application Quality: 15%
 
@@ -116,7 +116,7 @@ You are required to submit the following for review:
 
 - The URL of the deployed application. √
 
-- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+- The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. √
 
 ---
 
