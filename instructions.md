@@ -82,11 +82,11 @@ This homework is graded based on the following criteria:
 
   - Application's CSS selectors and properties are consolidated and organized to follow semantic structure. √
 
-  - Application's CSS file is properly commented.
+  - Application's CSS file is properly commented. √
 
 ### Deployment: 32%
 
-- Application deployed at live URL using GitHub Pages.
+- Application deployed at live URL using GitHub Pages. √
 
 - Application loads with no errors.
 
@@ -96,7 +96,7 @@ This homework is graded based on the following criteria:
 
 ### Application Quality: 15%
 
-- Application resembles (at least 90%) screenshots provided in the homework instructions.
+- Application resembles (at least 90%) screenshots provided in the homework instructions. √
 
 ### Repository Quality: 13%
 
@@ -114,7 +114,7 @@ This homework is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-- The URL of the deployed application.
+- The URL of the deployed application. √
 
 - The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
